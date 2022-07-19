@@ -12,48 +12,82 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    text-align: center;
 }
 
 h1{
     color: #926239;
     font-size: 50px;
+    padding-top: 20vw;
     text-align: center;
-    padding-top: 400px;
 }
 .infoSec1{
     color: #926239; 
-    text-align: center;
     font-weight: 400;
     font-size: 20px;
     margin-bottom: 30px;
+    text-align: center;
 }
 
 .button{
     text-decoration: none;
-    text-align: center;
     color: #926239; 
     font-size: 18px;
     border: 1px solid #926239 ;
     border-radius: 10px;
     padding: 16px;
-    margin-left: 900px;
-    cursor:#926239;
+    text-align: center;
 
 }
 .t1{
-    text-align: center;
     background-color: #926239;
     font-size: 17px;
     color: white;
     width: 100vw;
     padding: 22px;
     box-sizing: border-box;
+    text-align: center;
 }
 .t2{
-    text-align: center;
     font-size: 17px;
     color: #926239;
     width: 100vw;
     padding: 22px;
     box-sizing: border-box;
+    text-align: center;
 }
+
+.sec{
+background-color: #926239;
+box-sizing: border-box;
+}
+.block1{
+    display: inline-block;
+    width: 33%;
+    background-color: #926239;
+    color: white;
+    box-sizing: border-box;
+    padding: 20px;
+    background-color: #926239;
+    text-align: left;
+}
+.block2{
+    display: inline-block;
+    width: 33%;
+    color: #926239;
+    box-sizing: border-box;
+    padding: 20px;
+    background-color: white;
+    text-align: left;
+
+}
+.block3{
+    display: inline-block;
+    width: 33%;
+    background-color: #926239;
+    color: white;
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: left;
+}
+
